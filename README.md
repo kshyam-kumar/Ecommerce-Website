@@ -16,13 +16,13 @@ This project is a responsive **E-Commerce website** designed for selling **women
 
 ## Technologies Used
 
-- **Front-End**: React, React Router, Axios, HTML5, CSS3, JavaScript
+- **Front-End**: React, React Router, Axios, HTML5, CSS, JavaScript
 - **Back-End**: Node.js, Express.js
 - **Admin Panel**: Vite, React
 - **Database**: MongoDB (MongoDB Atlas)
 - **State Management**: Redux
 - **Authentication**: JWT (JSON Web Token)
-- **Styling**: CSS, Material-UI (or any other framework you’ve used)
+- **Styling**: CSS
 
 ## Installation
 

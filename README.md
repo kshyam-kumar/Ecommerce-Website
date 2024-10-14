@@ -96,4 +96,5 @@ If you would like to contribute to the project, feel free to submit a pull reque
 
 ## Screenshots 
 
+![image](https://github.com/user-attachments/assets/26e0da0f-33cb-4f6e-8471-b16fce600b34)
 

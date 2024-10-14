@@ -14,6 +14,13 @@ This project is a responsive **E-Commerce website** designed for selling **women
 - **RESTful API**: The backend is built using **Node.js** and **Express**, offering efficient and scalable operations.
 - **MongoDB Atlas**: Data management is handled securely and scalably via MongoDB.
 
+## Tech Stack
+- **Front-End**: Built with [React](https://reactjs.org/) for a dynamic user interface.
+- **Back-End**: Powered by [Node.js](https://nodejs.org/) for efficient server-side operations.
+- **Database**: Utilized [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) for secure and scalable data management.
+- **Admin Panel**: Developed with [Vite](https://vitejs.dev/) for fast development.
+
+
 ## Technologies Used
 
 - **Front-End**: React, React Router, Axios, HTML5, CSS, JavaScript

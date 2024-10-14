@@ -12,7 +12,7 @@ app.use(cors());
 
 //Databse connection with MongoDB
 mongoose.connect(
-  "mongodb+srv://flash:rspsshyam@cluster0.pdf1kek.mongodb.net/e-commerce"
+  "mongodb+srv://<username>:<password>@cluster0.xxxxx.mongodb.net/<dbname>?retryWrites=true&w=majority"
 );
 
 //API Creation

@@ -95,6 +95,24 @@ If you would like to contribute to the project, feel free to submit a pull reque
 
 
 ## Screenshots 
-
+**Home Page**
 ![image](https://github.com/user-attachments/assets/26e0da0f-33cb-4f6e-8471-b16fce600b34)
+![image](https://github.com/user-attachments/assets/ee4dcca0-e89b-4bf2-b34c-5d0e15368ee8)
+![image](https://github.com/user-attachments/assets/fd1f5e64-21e2-4632-87eb-5b61c0e5c3a7)
+![image](https://github.com/user-attachments/assets/2a70275c-da94-4b82-8a5b-12a905bf793c)
+
+**Mens Page**
+![image](https://github.com/user-attachments/assets/94ddb56d-c805-4bee-b378-774dd265a0b2)
+
+**Kids Page**
+![image](https://github.com/user-attachments/assets/972d23d5-7001-40a9-b512-ff9b78fe7a41)
+
+**Womens Page**
+![image](https://github.com/user-attachments/assets/78f2132a-5b8c-42d7-8e13-c4c2460b79e5)
+
+**Cart Page**
+![image](https://github.com/user-attachments/assets/896e70f8-7b82-46c2-90e8-9cf0dc4d430a)
+![image](https://github.com/user-attachments/assets/0c68a9e5-4116-4567-8e23-433e30f95044)
+
+
 
